@@ -10,7 +10,7 @@ Before deliver an ad, Custom Tracking URL should be testes with ZPLAY Ads.
 
 ## INTRODUCTION
 ### 1. Postback URL Request
-http://callback.zplayads.com/effect/advertiser?click_id={click_id}&advertiser_id={advertiser_id}&app_id={app_id}&idfa={idfa}&imei{imei}&advertising_id={adverstising_id}&conversion_type={conversion_type}
+http://callback.zplayads.com/effect/advertiser?click_id={click_id}&advertiser_id={advertiser_id}&app_id={app_id}&idfa={idfa}&imei={imei}&advertising_id={adverstising_id}&conversion_type={conversion_type}
 
 ### 2. Request Type: GET
 ### 3. Paramiters Introduction
