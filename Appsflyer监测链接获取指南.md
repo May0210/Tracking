@@ -4,5 +4,5 @@
 #### 2. 在平台配置页面获取Tracking Link及View-Tracking Link
 ![image](imgs/004af2.png)
 
-#### 6.	在您创建广告或者编辑广告将获取到的View-Tracking Link填写到ZPLAY Ads展示监测地址框，Tracking Link填写到ZPLAY Ads的监测地址框内 
+#### 3.	在您创建广告或者编辑广告将获取到的View-Tracking Link填写到ZPLAY Ads展示监测地址框，Tracking Link填写到ZPLAY Ads的监测地址框内 
 ![image](imgs/000zplay.png)
