@@ -25,7 +25,7 @@ http://callback.zplayads.com/effect/advertiser?click_id={click_id}&campaign_name
 |conversion_type|Conversion type, value and ID as follows：Download：1；Install：2；Pay：3；Custom: (Advertisers use custom ID should confirm and notice ZPLAY Ads in advance)|
 
 ### 4. Return Parameter
-If the response is normal, return stringOK
+If the response is normal, return string OK
 
 ## CODE SAMPLE
 #### Android：
