@@ -15,13 +15,13 @@ http://callback.zplayads.com/effect/advertiser?click_id={click_id}&campaign_name
 ### 3、数据回传参数说明
 |参数|说明|
 |------|---|
-|click_id|点击 ID，由 zplay 生成，在点击请求时发送给广告主，广告主回传|
+|click_id|点击 ID，由 zplay 生成，在点击请求时发送给广告主，广告主回传；必填|
 |campaign_name|广告ID，由zplay生成，广告主在zplay平台创建广告投放后生成的ID；必填|
 |app_id|广告主应用在zplay平台注册后生成的ID；非必填|
 |idfa|iOS操作系统上的唯一ID；在iOS系统时必填|
 |imei|Android操作系统上的唯一ID；在Android系统时必填|
 |advertising_id|Android操作系统上的唯一ID；非必填|
-|conversion_type|转化类型，可用的值及对应ID如下：下载：1；激活：2；付费：3；自定义：（广告主对自定义的ID要提前与zplay确认，并告知zplay）|
+|conversion_type|转化类型，可用的值及对应ID如下：下载：1；激活：2；付费：3；自定义：（广告主对自定义的ID要提前与zplay确认，并告知zplay）；必填|
 
 
 ### 4、返回参数
